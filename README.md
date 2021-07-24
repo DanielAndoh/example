@@ -1,2 +1,2 @@
 # example
-demonstration
+demonstration of classes
